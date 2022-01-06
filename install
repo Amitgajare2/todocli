@@ -1,0 +1,10 @@
+echo -e "\e[34mPACKAGES BEING INSTALLED WAIT....\e[0m"
+
+pkg install python
+pip install rich
+pip install typer
+
+echo "Wail...."
+pkg install sqlite
+
+
