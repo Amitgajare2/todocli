@@ -1,7 +1,7 @@
 ## Todos Python App
 
 ### Preview of after setup completed..
-<img src="https://i.ibb.co/3NgbjZ9/Screenshot-2022-01-06-171632-2.png" alt="Screenshot-2022-01-06-171632-2" border="0">
+<img src="https://i.ibb.co/3NgbjZ9/Screenshot-2022-01-06-171632-2.png" style="width:auto;height:auto;" alt="Screenshot-2022-01-06-171632-2" border="0">
 
 ### Installing Commands 
 
